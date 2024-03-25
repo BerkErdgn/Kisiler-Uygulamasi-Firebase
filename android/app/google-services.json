@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "810284272685",
+    "project_id": "egitim-f4e52",
+    "storage_bucket": "egitim-f4e52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810284272685:android:83490659307145fc923ca4",
+        "android_client_info": {
+          "package_name": "com.berkerdgn.filimlerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4tS0vjTHNXZ2uVlsZcCK5iBoQeA2lVIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810284272685:android:48e6d93d8a40abc1923ca4",
+        "android_client_info": {
+          "package_name": "com.example.kisiler_uygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4tS0vjTHNXZ2uVlsZcCK5iBoQeA2lVIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810284272685:android:90690ecf09008b29923ca4",
+        "android_client_info": {
+          "package_name": "com.example.kisileruygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4tS0vjTHNXZ2uVlsZcCK5iBoQeA2lVIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
